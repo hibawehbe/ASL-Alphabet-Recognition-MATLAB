@@ -32,7 +32,7 @@
 - Rare misclassifications (e.g., A ↔ D)
 
 ### 3. CNN Training
-![CNN Accuracy/Loss](assets/cnn_accuracy_loss.png) *<!-- Fixed filename -->*
+![CNN Accuracy/Loss](assets/cnn_accuracy&loss.png) 
 - **99.9545% test accuracy**
 - **100% validation accuracy** in 20 epochs
 - Challenges with G (Recall: 0.99) and H (Precision: 0.99)
