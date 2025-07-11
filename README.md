@@ -57,7 +57,7 @@ layers = [
 options = trainingOptions('adam', ...
     'MaxEpochs', 20, ...
     'ValidationFrequency', 50);
-##
+## Info
 
 📧 **Contact**: [hwehbe191@gmail.com](mailto:hwehbe191@gmail.com)  
 🔗 **Dataset**: [ASL Alphabet on Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)  
