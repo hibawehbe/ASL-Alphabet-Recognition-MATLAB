@@ -57,15 +57,8 @@ layers = [
 options = trainingOptions('adam', ...
     'MaxEpochs', 20, ...
     'ValidationFrequency', 50);
-
-### **Where to Add Contact/Dataset Info**
-```markdown
-## 🔮 Future Work
-- Real-time webcam integration
-- Mobile deployment via TensorFlow Lite
-
----  <!-- Add this horizontal line first! -->
-
-📧 **Contact**: [hwehbe191@gmail.com](mailto:hwehbe191@gmail.com)  
-🔗 **Dataset**: [ASL Alphabet on Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)  
-💻 **MATLAB Version**: R2021a+
+```
+## ℹ️ About  
+**Author**: Hiba Wehbe  
+**Contact**: [hwehbe191@gmail.com](mailto:hwehbe191@gmail.com)  
+**Dataset**: [Kaggle ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)  
