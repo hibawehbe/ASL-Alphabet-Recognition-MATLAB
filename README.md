@@ -57,7 +57,14 @@ layers = [
 options = trainingOptions('adam', ...
     'MaxEpochs', 20, ...
     'ValidationFrequency', 50);
-## Info
+
+### **Where to Add Contact/Dataset Info**
+```markdown
+## 🔮 Future Work
+- Real-time webcam integration
+- Mobile deployment via TensorFlow Lite
+
+---  <!-- Add this horizontal line first! -->
 
 📧 **Contact**: [hwehbe191@gmail.com](mailto:hwehbe191@gmail.com)  
 🔗 **Dataset**: [ASL Alphabet on Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)  
