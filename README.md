@@ -1,4 +1,4 @@
-# 🖖 ASL Alphabet Recognition: MATLAB Multi-Algorithm Study
+# ASL Alphabet Recognition: MATLAB Multi-Algorithm Study
 
 *Comparative performance of KNN, SVM, and CNN models*
 
@@ -57,3 +57,9 @@ layers = [
 options = trainingOptions('adam', ...
     'MaxEpochs', 20, ...
     'ValidationFrequency', 50);
+
+---
+
+📧 **Contact**: [hwehbe191@gmail.com](mailto:hwehbe191@gmail.com)  
+🔗 **Dataset**: [ASL Alphabet on Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)  
+💻 **MATLAB Version**: R2021a+
